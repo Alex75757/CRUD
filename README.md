@@ -3,9 +3,11 @@
   
 Don't foget to start MongoDB locally or change url in app/config/db.config.js file
 
-
+#
 front-end server localhost:3000
+#
 back-en server localhost:8080
+#
 $ npm run dev
 
 
