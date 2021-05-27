@@ -1,20 +1,14 @@
 # test
 
-## Build Setup
+Nuxt.js with Vuetify is front-end part 
++  Node(Express) and MongoDB at back-end.
+  
+Don't foget to start MongoDB locally or change url in app/config/db.config.js file
 
-```bash
-# install dependencies
-$ npm install
 
-# serve with hot reload at localhost:3000
+front-end server localhost:3000
+back-en server localhost:8080
 $ npm run dev
 
-# build for production and launch server
-$ npm run build
-$ npm run start
-
-# generate static project
-$ npm run generate
-```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
