@@ -1,7 +1,5 @@
-# test
-
-Nuxt.js with Vuetify is front-end part 
-+  Node(Express) and MongoDB at back-end.
+# Nuxt.js with Vuetify is front-end part 
+# + Node(Express) and MongoDB at back-end.
   
 Don't foget to start MongoDB locally or change url in app/config/db.config.js file
 
