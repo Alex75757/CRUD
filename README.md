@@ -12,3 +12,5 @@ $ npm run dev
 
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+первоисточник (без Nuxt) взят с https://bezkoder.com/vue-node-express-mongodb-mevn-crud/
