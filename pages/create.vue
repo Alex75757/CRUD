@@ -1,0 +1,6 @@
+<template>
+  
+    <AddTutorial />
+
+  
+</template>
